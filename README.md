@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Julieta</h1>
-<h3 align="center">I am a student from Argentina</h3>
+<h3 align="center">I am a student from UTN Argentina</h3>
 
 - 🌱 I’m currently learning **HTML, CSS , JS**
 
 - 📫 How to reach me **juli.sorano06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
